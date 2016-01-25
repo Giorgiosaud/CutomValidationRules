@@ -1,0 +1,20 @@
+{
+    "name": "jorgelsaud/custom-validators",
+    "description": "Custom Validation Rules For Laravel",
+    "require": {
+        "illuminate/validation": "^5.2"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Giorgiosaud",
+            "email": "jorgelsaud@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "jorgelsaud\\CustomValidators\\": "src"
+        }
+    }
+
+}
